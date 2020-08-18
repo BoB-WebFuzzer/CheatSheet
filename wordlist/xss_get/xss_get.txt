@@ -1,0 +1,6 @@
+GET /bWAPP/xss_get.php?firstname=FUZZ&lastname=FUZZ&form=submit
+GET /bWAPP/xss_json.php?title=FUZZ&action=search
+GET /bWAPP/xss_ajax_2-2.php?title=FUZZ
+GET /bWAPP/xss_ajax_1-2.php?title=FUZZ
+GET /bWAPP/xss_eval.php?date=FUZZ
+GET /bWAPP/xss_href-2.php?name=FUZEE&action=vote

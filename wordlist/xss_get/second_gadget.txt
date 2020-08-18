@@ -1,3 +1,6 @@
+alert(%A2XSS%A2)%BC
+alert(1)
+eval(1)
 "><script>"
 <script>alert("WXSS")</script>
 <<script>alert("WXSS");//<</script>
